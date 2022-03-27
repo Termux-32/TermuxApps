@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+	android:sharedUserId
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:5:5-38
+	android:versionName
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:8:22-65
+application
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:10:5-32:19
+	android:supportsRtl
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:11:9-36
+activity#com.termux.boot.BootActivity
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:19:27-74
+receiver#com.termux.boot.BootReceiver
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:exported
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:25:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:26:17-79
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:26:25-76
+service#com.termux.boot.BootJobService
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:29:9-31:72
+	android:permission
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml:30:13-43
+uses-sdk
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-boot/app/src/main/AndroidManifest.xml

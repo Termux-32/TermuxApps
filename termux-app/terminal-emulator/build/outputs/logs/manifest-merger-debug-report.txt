@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:11-40
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+uses-sdk
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/AndroidManifest.xml

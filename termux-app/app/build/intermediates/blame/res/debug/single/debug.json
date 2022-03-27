@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_selected_session_background_black.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/selected_session_background_black.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_terminal_scroll_shape.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/terminal_scroll_shape.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_selected_session_background.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/selected_session_background.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_new_session.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/ic_new_session.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_current_session.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/current_session.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_launcher.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout_drawer_layout.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_text_select_handle_left_material.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-view/build/intermediates/packaged_res/debug/drawable/text_select_handle_left_material.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_foreground.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/ic_foreground.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_banner.png.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/banner.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/raw_bell.ogg.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/raw/bell.ogg"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_service_notification.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/ic_service_notification.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout_line_in_drawer.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/layout/line_in_drawer.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_session_ripple.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/session_ripple.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout_extra_keys_main.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/layout/extra_keys_main.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_text_select_handle_right_mtrl_alpha.png.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-view/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/text_select_handle_right_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_text_select_handle_left_mtrl_alpha.png.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-view/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/text_select_handle_left_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/layout_extra_keys_right.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/layout/extra_keys_right.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_current_session_black.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/current_session_black.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_text_select_handle_right_material.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-view/build/intermediates/packaged_res/debug/drawable/text_select_handle_right_material.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/xml_shortcuts.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/res/merged/debug/drawable_session_ripple_black.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/drawable/session_ripple_black.xml"
+    }
+]

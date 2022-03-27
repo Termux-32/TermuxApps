@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/build/intermediates/res/merged/debug/layout_layout.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/src/main/res/layout/layout.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/build/intermediates/res/merged/debug/drawable_ic_foreground.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/src/main/res/drawable/ic_foreground.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/src/main/res/drawable-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/build/intermediates/res/merged/debug/drawable_ic_launcher.xml.flat",
+        "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-styling/app/src/main/res/drawable/ic_launcher.xml"
+    }
+]

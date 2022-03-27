@@ -1,0 +1,27 @@
+com.termux.window
+drawable floating_window_background
+drawable floating_window_background_resize
+drawable ic_foreground
+drawable ic_launcher
+drawable text_select_handle_left_material
+drawable text_select_handle_left_mtrl_alpha
+drawable text_select_handle_right_material
+drawable text_select_handle_right_mtrl_alpha
+id terminal_view
+id window_layout
+layout activity_main
+layout activity_permission
+mipmap ic_service_notification
+string after_long_press
+string app_name
+string copy_text
+string draw_overlay_permission_explanation
+string grant_permission
+string initial_instruction_toast
+string notification_message_hidden
+string notification_message_visible
+string notification_title
+string paste_text
+string text_selection_more
+style AppBaseTheme
+style AppTheme

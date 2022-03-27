@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "873,1164",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "1159,1319"
+                    }
+                },
+                {
+                    "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,3,15,7,8,4,12,11,10,14,16",
+                        "startColumns": "1,4,4,4,4,1,4,1,1,4,4",
+                        "startOffsets": "254,56,768,337,448,103,644,565,508,723,811",
+                        "endColumns": "78,49,42,110,61,150,77,75,56,44,53",
+                        "endOffsets": "331,101,806,443,505,252,717,639,563,763,860"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,137,187,230,341,403,557,635,714,774,819",
+                        "endColumns": "81,49,42,110,61,153,77,78,59,44,53",
+                        "endOffsets": "132,182,225,336,398,552,630,709,769,814,868"
+                    }
+                }
+            ]
+        }
+    ]
+}
