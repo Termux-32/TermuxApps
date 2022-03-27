@@ -1,0 +1,4 @@
+#Sun Mar 27 18:30:33 CEST 2022
+base.0=/mnt/data/gameplayer/termux-app-sources-legacy/termux-widget/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

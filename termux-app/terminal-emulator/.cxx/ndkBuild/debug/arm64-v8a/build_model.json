@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app",
+      "sdkFolder": "/home/gameplayer/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/build/intermediates",
+      "gradleModulePathName": ":terminal-emulator",
+      "moduleRootFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator",
+      "makeFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/.cxx",
+      "cxxFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx",
+      "ndkFolder": "/home/gameplayer/Android/Sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [
+      "-std\u003dc11",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Os",
+      "-fno-stack-protector",
+      "-Wl,--gc-sections"
+    ],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/lib",
+    "objFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/obj/local",
+    "jsonFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug",
+    "gradleBuildOutputFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a",
+  "jsonFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a",
+  "buildCommandFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-emulator/.cxx/ndkBuild/debug/arm64-v8a/compile_commands.json"
+}

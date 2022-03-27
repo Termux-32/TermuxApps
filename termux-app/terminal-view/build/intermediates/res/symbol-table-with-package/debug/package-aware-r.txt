@@ -1,0 +1,8 @@
+com.termux.view
+drawable text_select_handle_left_material
+drawable text_select_handle_left_mtrl_alpha
+drawable text_select_handle_right_material
+drawable text_select_handle_right_mtrl_alpha
+string copy_text
+string paste_text
+string text_selection_more

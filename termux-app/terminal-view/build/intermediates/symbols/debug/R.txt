@@ -1,0 +1,7 @@
+int drawable text_select_handle_left_material 0x7f080001
+int drawable text_select_handle_left_mtrl_alpha 0x7f080002
+int drawable text_select_handle_right_material 0x7f080003
+int drawable text_select_handle_right_mtrl_alpha 0x7f080004
+int string copy_text 0x7f140001
+int string paste_text 0x7f140002
+int string text_selection_more 0x7f140003

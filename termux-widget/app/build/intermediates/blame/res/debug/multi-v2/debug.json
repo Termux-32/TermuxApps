@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-widget/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-widget/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,9,5,6,8,3,4,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,470,234,313,399,106,169,357",
+                        "endColumns": "50,102,78,43,70,62,64,41",
+                        "endOffsets": "101,568,308,352,465,164,229,394"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,209,288,332,403,466,531",
+                        "endColumns": "50,102,78,43,70,62,64,41",
+                        "endOffsets": "101,204,283,327,398,461,526,568"
+                    }
+                }
+            ]
+        }
+    ]
+}

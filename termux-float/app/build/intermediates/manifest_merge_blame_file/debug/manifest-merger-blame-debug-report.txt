@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.termux.window"
+4    android:sharedUserId="com.termux"
+5    android:versionCode="13"
+6    android:versionName="0.13" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="28" />
+10-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml
+11
+12    <uses-feature
+12-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:7:5-90
+13        android:name="android.hardware.touchscreen"
+13-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:7:19-62
+14        android:required="false" />
+14-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:7:63-87
+15
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:9:5-78
+16-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:9:22-75
+17    <uses-permission android:name="android.permission.VIBRATE" />
+17-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:11:5-66
+17-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:11:22-63
+18
+19    <application
+19-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:13:5-37:19
+20        android:allowBackup="true"
+20-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:14:9-35
+21        android:debuggable="true"
+22        android:extractNativeLibs="true"
+22-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:15:9-41
+23        android:icon="@drawable/ic_launcher"
+23-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:16:9-45
+24        android:label="@string/app_name"
+24-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:17:9-41
+25        android:theme="@style/AppTheme" >
+25-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:18:9-40
+26        <activity
+26-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:20:9-30:20
+27            android:name="com.termux.window.TermuxFloatActivity"
+27-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:23:13-48
+28            android:label="@string/app_name"
+28-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:24:13-45
+29            android:noHistory="true"
+29-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:22:13-37
+30            android:theme="@android:style/Theme.NoDisplay" >
+30-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:21:13-59
+31            <intent-filter>
+31-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:25:13-29:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:26:17-69
+32-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:26:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:28:17-77
+34-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:28:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:32:9-34:61
+38            android:name="com.termux.window.TermuxFloatPermissionActivity"
+38-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:34:13-58
+39            android:theme="@android:style/Theme.Material" />
+39-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:33:13-58
+40
+41        <service
+41-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:36:9-79
+42            android:name="com.termux.window.TermuxFloatService"
+42-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:36:18-52
+43            android:exported="false" />
+43-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-float/app/src/main/AndroidManifest.xml:36:53-77
+44    </application>
+45
+46</manifest>

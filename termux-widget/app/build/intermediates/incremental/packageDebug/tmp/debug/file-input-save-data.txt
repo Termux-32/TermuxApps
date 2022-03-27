@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 27 18:30:33 CEST 2022
+0.base=/mnt/data/gameplayer/termux-app-sources-legacy/termux-widget/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
