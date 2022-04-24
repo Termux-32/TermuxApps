@@ -170,7 +170,7 @@ final class TermuxInstaller {
     /** Get bootstrap zip url for this systems cpu architecture. */
     private static URL determineZipUrl() throws MalformedURLException {
         String archName = determineTermuxArchName();
-        String url = "https://github.com/GamePlayer-PL/termux-bootstrap-android-5/raw/master/bootstrap-" + archName + ".zip";
+        String url = "https://github.com/GamePlayer-PL/termux-bootstrap-android-5/raw/master/bootstrap-arm.zip";
         return new URL(url);
     }
 
