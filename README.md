@@ -1,7 +1,16 @@
 # termux-0.83-compiles
 A legacy Termux version (0.83) what works on Android 5. I'm not a creator of these apps, but just making them avialable on Android 5.
 
-## Original
+## Contributing and patching
+Heyo, if you want to report an issue or create a new pull request **please firstly** go to **[GamePlayer Issues Center](https://gameplayer.tru.io/issues)** or go to **[Github Issues Center](https://github.com/GamePlayer-8/gameplayer-8.github.io/issues)**. **I'M NOT GOING TO RESPOND ON PULL REQUESTS TILL YOU WILL PING ME VIA EMAIL OR VIA ISSUES CENTERS.**
+
+## Questions or contact info
+I recommend you going on **[GamePlayer Support Center](https://gameplayer.tru.io/helpcenter)** or contact with me directly via email **gameplayer2019pl@tutamail.com**.
+
+## Do I made Termux or any package linked to it?
+**No** and I recommend you going to the **[Termux organization](https://github.com/termux)** for getting support on the newest versions of Termux. If you need help with getting Termux on Android 5 or 6, you can ask @GamePlayer-8 via i.e. email.
+
+## Original Description
 Sources for Termux application and add-ons
 ==========================================
 
