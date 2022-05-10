@@ -9,284 +9,284 @@
 9
 10    <uses-sdk
 11        android:minSdkVersion="21"
-11-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml
+11-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml
 12        android:targetSdkVersion="28" />
-12-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml
+12-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml
 13
 14    <uses-feature
-14-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:8:5-90
+14-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:8:5-90
 15        android:name="android.hardware.touchscreen"
-15-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:8:19-62
+15-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:8:19-62
 16        android:required="false" />
-16-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:8:63-87
+16-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:8:63-87
 17    <uses-feature
-17-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:9:5-87
+17-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:9:5-87
 18        android:name="android.software.leanback"
-18-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:9:19-59
+18-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:9:19-59
 19        android:required="false" />
-19-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:9:60-84
+19-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:9:60-84
 20
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-21-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:11:5-79
-21-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:11:22-76
+21-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:11:5-79
+21-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:11:22-76
 22    <uses-permission android:name="android.permission.INTERNET" />
-22-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:12:5-67
-22-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:12:22-64
+22-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:12:5-67
+22-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:12:22-64
 23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-23-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:13:5-81
-23-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:13:22-78
+23-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:13:5-81
+23-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:13:22-78
 24    <uses-permission android:name="android.permission.WAKE_LOCK" />
-24-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:14:5-68
-24-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:14:22-65
+24-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:14:5-68
+24-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:14:22-65
 25    <uses-permission android:name="android.permission.VIBRATE" />
-25-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:15:5-66
-25-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:15:22-63
+25-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:15:5-66
+25-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:15:22-63
 26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-26-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:16:5-77
-26-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:16:22-74
+26-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:16:5-77
+26-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:16:22-74
 27
 28    <uses-permission-sdk-23 android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
-28-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:17:5-101
-28-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:17:29-99
+28-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:17:5-101
+28-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:17:29-99
 29
 30    <application
-30-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:19:5-125:19
+30-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:19:5-125:19
 31        android:allowBackup="false"
-31-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:21:9-36
+31-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:21:9-36
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-32-->[androidx.core:core:1.0.0] /mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/AndroidManifest.xml:22:18-86
+32-->[androidx.core:core:1.0.0] /home/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/AndroidManifest.xml:22:18-86
 33        android:banner="@drawable/banner"
-33-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:23:9-42
+33-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:23:9-42
 34        android:debuggable="true"
 35        android:extractNativeLibs="true"
-35-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:20:9-41
+35-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:20:9-41
 36        android:icon="@drawable/ic_launcher"
-36-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:22:9-45
+36-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:22:9-45
 37        android:label="@string/application_name"
-37-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:24:9-49
+37-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:24:9-49
 38        android:supportsRtl="false"
-38-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:26:9-36
+38-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:26:9-36
 39        android:theme="@style/Theme.Termux" >
-39-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:25:9-44
+39-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:25:9-44
 40
 41        <!--
 42             This (or rather, value 2.1 or higher) is needed to make the Samsung Galaxy S8
 43             mark the app with "This app is optimized to run in full screen."
 44        -->
 45        <meta-data
-45-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:30:9-77
+45-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:30:9-77
 46            android:name="android.max_aspect"
-46-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:30:20-53
+46-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:30:20-53
 47            android:value="10.0" />
-47-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:30:54-74
+47-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:30:54-74
 48
 49        <activity
-49-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:32:9-48:20
+49-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:32:9-48:20
 50            android:name="com.termux.app.TermuxActivity"
-50-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:33:13-57
+50-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:33:13-57
 51            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-51-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:35:13-83
+51-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:35:13-83
 52            android:label="@string/application_name"
-52-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:34:13-53
+52-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:34:13-53
 53            android:launchMode="singleTask"
-53-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:36:13-44
+53-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:36:13-44
 54            android:resizeableActivity="true"
-54-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:37:13-46
+54-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:37:13-46
 55            android:windowSoftInputMode="adjustResize|stateAlwaysVisible" >
-55-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:38:13-74
+55-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:38:13-74
 56            <intent-filter>
-56-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:39:13-42:29
+56-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:39:13-42:29
 57                <action android:name="android.intent.action.MAIN" />
-57-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:40:17-69
-57-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:40:25-66
+57-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:40:17-69
+57-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:40:25-66
 58
 59                <category android:name="android.intent.category.LAUNCHER" />
-59-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:41:17-77
-59-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:41:27-74
+59-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:41:17-77
+59-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:41:27-74
 60            </intent-filter>
 61            <intent-filter>
-61-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:43:13-46:29
+61-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:43:13-46:29
 62                <action android:name="android.intent.action.MAIN" />
-62-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:40:17-69
-62-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:40:25-66
+62-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:40:17-69
+62-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:40:25-66
 63
 64                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-64-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:45:17-86
-64-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:45:27-83
+64-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:45:17-86
+64-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:45:27-83
 65            </intent-filter>
 66
 67            <meta-data
-67-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:47:13-97
+67-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:47:13-97
 68                android:name="android.app.shortcuts"
-68-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:47:24-60
+68-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:47:24-60
 69                android:resource="@xml/shortcuts" />
-69-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:47:61-94
+69-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:47:61-94
 70        </activity>
 71
 72        <activity-alias
-72-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:89:9-99:26
+72-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:89:9-99:26
 73            android:name="com.termux.HomeActivity"
-73-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:90:13-41
+73-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:90:13-41
 74            android:targetActivity="com.termux.app.TermuxActivity" >
-74-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:91:13-67
+74-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:91:13-67
 75
 76            <!-- Launch activity automatically on boot on Android Things devices -->
 77            <intent-filter>
-77-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:94:13-98:29
+77-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:94:13-98:29
 78                <action android:name="android.intent.action.MAIN" />
-78-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:40:17-69
-78-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:40:25-66
+78-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:40:17-69
+78-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:40:25-66
 79
 80                <category android:name="android.intent.category.IOT_LAUNCHER" />
-80-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:96:17-80
-80-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:96:27-78
+80-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:96:17-80
+80-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:96:27-78
 81                <category android:name="android.intent.category.DEFAULT" />
-81-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:68:17-76
-81-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:68:27-73
+81-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:68:17-76
+81-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:68:27-73
 82            </intent-filter>
 83        </activity-alias>
 84
 85        <activity
-85-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:50:9-56:56
+85-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:50:9-56:56
 86            android:name="com.termux.app.TermuxHelpActivity"
-86-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:51:13-61
+86-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:51:13-61
 87            android:exported="false"
-87-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:52:13-37
+87-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:52:13-37
 88            android:label="@string/application_name"
-88-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:56:13-53
+88-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:56:13-53
 89            android:parentActivityName="com.termux.app.TermuxActivity"
-89-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:54:13-61
+89-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:54:13-61
 90            android:resizeableActivity="true"
-90-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:55:13-46
+90-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:55:13-46
 91            android:theme="@android:style/Theme.Material.Light.DarkActionBar" />
-91-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:53:13-78
+91-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:53:13-78
 92        <activity
-92-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:58:9-87:20
+92-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:58:9-87:20
 93            android:name="com.termux.filepicker.TermuxFileReceiverActivity"
-93-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:59:13-76
+93-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:59:13-76
 94            android:excludeFromRecents="true"
-94-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:62:13-46
+94-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:62:13-46
 95            android:label="@string/application_name"
-95-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:60:13-53
+95-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:60:13-53
 96            android:noHistory="true"
-96-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:64:13-37
+96-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:64:13-37
 97            android:resizeableActivity="true"
-97-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:63:13-46
+97-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:63:13-46
 98            android:taskAffinity="com.termux.filereceiver" >
-98-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:61:13-59
+98-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:61:13-59
 99
 100            <!-- Accept multiple file types when sending. -->
 101            <intent-filter>
-101-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:66:13-76:29
+101-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:66:13-76:29
 102                <action android:name="android.intent.action.SEND" />
-102-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:67:17-68
-102-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:67:25-66
+102-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:67:17-68
+102-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:67:25-66
 103
 104                <category android:name="android.intent.category.DEFAULT" />
-104-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:68:17-76
-104-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:68:27-73
+104-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:68:17-76
+104-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:68:27-73
 105
 106                <data android:mimeType="application/*" />
-106-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-106-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+106-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+106-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 107                <data android:mimeType="audio/*" />
-107-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-107-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+107-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+107-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 108                <data android:mimeType="image/*" />
-108-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-108-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+108-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+108-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 109                <data android:mimeType="message/*" />
-109-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-109-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+109-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+109-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 110                <data android:mimeType="multipart/*" />
-110-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-110-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+110-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+110-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 111                <data android:mimeType="text/*" />
-111-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-111-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+111-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+111-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 112                <data android:mimeType="video/*" />
-112-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-112-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+112-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+112-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 113            </intent-filter>
 114            <!-- Be more restrictive for viewing files, restricting ourselves to text files. -->
 115            <intent-filter>
-115-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:78:13-86:29
+115-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:78:13-86:29
 116                <action android:name="android.intent.action.VIEW" />
-116-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:79:17-68
-116-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:79:25-66
+116-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:79:17-68
+116-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:79:25-66
 117
 118                <category android:name="android.intent.category.DEFAULT" />
-118-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:68:17-76
-118-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:68:27-73
+118-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:68:17-76
+118-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:68:27-73
 119
 120                <data android:mimeType="text/*" />
-120-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-120-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+120-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+120-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 121                <data android:mimeType="application/json" />
-121-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-121-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+121-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+121-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 122                <data android:mimeType="application/*xml*" />
-122-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-122-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+122-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+122-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 123                <data android:mimeType="application/*latex*" />
-123-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-123-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+123-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+123-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 124                <data android:mimeType="application/javascript" />
-124-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:17-58
-124-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:69:23-55
+124-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:17-58
+124-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:69:23-55
 125            </intent-filter>
 126        </activity>
 127
 128        <provider
-128-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:101:9-110:20
+128-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:101:9-110:20
 129            android:name="com.termux.filepicker.TermuxDocumentsProvider"
-129-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:102:13-63
+129-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:102:13-63
 130            android:authorities="com.termux.documents"
-130-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:103:13-55
+130-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:103:13-55
 131            android:exported="true"
-131-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:105:13-36
+131-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:105:13-36
 132            android:grantUriPermissions="true"
-132-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:104:13-47
+132-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:104:13-47
 133            android:permission="android.permission.MANAGE_DOCUMENTS" >
-133-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:106:13-69
+133-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:106:13-69
 134            <intent-filter>
-134-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:107:13-109:29
+134-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:107:13-109:29
 135                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
-135-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:108:17-84
-135-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:108:25-81
+135-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:108:17-84
+135-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:108:25-81
 136            </intent-filter>
 137        </provider>
 138
 139        <service
-139-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:112:9-114:40
+139-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:112:9-114:40
 140            android:name="com.termux.app.TermuxService"
-140-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:113:13-56
+140-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:113:13-56
 141            android:exported="false" />
-141-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:114:13-37
+141-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:114:13-37
 142
 143        <receiver android:name="com.termux.app.TermuxOpenReceiver" />
-143-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:116:9-60
-143-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:116:19-57
+143-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:116:9-60
+143-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:116:19-57
 144
 145        <provider
-145-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:118:9-122:86
+145-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:118:9-122:86
 146            android:name="com.termux.app.TermuxOpenReceiver$ContentProvider"
-146-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:122:19-83
+146-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:122:19-83
 147            android:authorities="com.termux.files"
-147-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:118:19-57
+147-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:118:19-57
 148            android:exported="true"
-148-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:120:19-42
+148-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:120:19-42
 149            android:grantUriPermissions="true"
-149-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:121:19-53
+149-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:121:19-53
 150            android:readPermission="android.permission.permRead" />
-150-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:119:19-71
+150-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:119:19-71
 151
 152        <meta-data
-152-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:124:9-94
+152-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:124:9-94
 153            android:name="com.sec.android.support.multiwindow"
-153-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:124:20-70
+153-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:124:20-70
 154            android:value="true" />
-154-->/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/AndroidManifest.xml:124:71-91
+154-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/AndroidManifest.xml:124:71-91
 155    </application>
 156
 157</manifest>
