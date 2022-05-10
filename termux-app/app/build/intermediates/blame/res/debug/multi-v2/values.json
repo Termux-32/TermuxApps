@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/values/styles.xml",
+                    "source": "/home/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-view/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,98,143",
+                        "endColumns": "42,44,53",
+                        "endOffsets": "93,138,192"
+                    },
+                    "to": {
+                        "startLines": "47,60,79",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3002,3850,5116",
+                        "endColumns": "42,44,53",
+                        "endOffsets": "3040,3890,5165"
+                    }
+                },
+                {
+                    "source": "/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "23,3,30",
                         "startColumns": "4,4,4",
@@ -23,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/app/src/main/res/values/strings.xml",
+                    "source": "/home/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,16,15,18,14,17,13,33,48,49,47,10,32,21,20,4,5,43,44,45,7,23,27,25,29,26,28,38,37,36,35,30,9,3,8,41,40,11,6",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/values/values.xml",
+                    "source": "/home/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -56,23 +73,6 @@
                         "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,75,86,90,91,95,96,134,135,142,185,217,254,261",
                         "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "119,182,240,314,384,452,524,594,655,729,802,863,924,986,1050,1112,1173,1241,1341,1401,1467,1540,1609,1666,1718,1780,1852,1928,1963,1998,2048,2109,2166,2200,2235,2270,2340,4918,5624,5825,5935,6136,6265,8392,8459,8757,11663,13728,15488,15865"
-                    }
-                },
-                {
-                    "source": "/mnt/data/gameplayer/termux-app-sources-legacy/termux-app/terminal-view/build/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,98,143",
-                        "endColumns": "42,44,53",
-                        "endOffsets": "93,138,192"
-                    },
-                    "to": {
-                        "startLines": "47,60,79",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "3002,3850,5116",
-                        "endColumns": "42,44,53",
-                        "endOffsets": "3040,3890,5165"
                     }
                 }
             ]
