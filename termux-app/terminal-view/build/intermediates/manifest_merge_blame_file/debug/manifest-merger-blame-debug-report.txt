@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="21"
-6-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-view/src/main/AndroidManifest.xml
+6-->/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-view/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="28" />
-7-->/home/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-view/src/main/AndroidManifest.xml
+7-->/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-view/src/main/AndroidManifest.xml
 8
 9</manifest>

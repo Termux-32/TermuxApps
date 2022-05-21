@@ -27,7 +27,15 @@
     },
     {
       "level": "INFO",
+      "message": "Considering /home/gameplayer/Android/Sdk/ndk/24.0.8215888 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
       "message": "Rejected /home/gameplayer/Android/Sdk/ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected /home/gameplayer/Android/Sdk/ndk/24.0.8215888 in SDK ndk folder because that location has no source.properties"
     },
     {
       "level": "INFO",
