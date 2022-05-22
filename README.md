@@ -10,7 +10,21 @@ I recommend you going on **[GamePlayer Support Center](https://gameplayer.tru.io
 ## Do I made Termux or any package linked to it?
 **No** and I recommend you going to the **[Termux organization](https://github.com/termux)** for getting support on the newest versions of Termux. If you need help with getting Termux on Android 5 or 6, you can ask @GamePlayer-8 via i.e. email.
 
-## Original Description
+# Installation
+You can download the apk files from [releases page](https://github.com/GamePlayer-8-Discontinued-Termux/termux-0.83-compiles/releases) directly on your Android device or on your computer (you can later on use `adb install <apk file>` to install Termux from cmd / terminal).
+
+## Installing apps on bootstrap
+Currently `pkg` and `apt` command will not work. But deb files are available in:
+ * [Termux main repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-termux-android-5)
+ * [Termux root repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-root-android-5)
+ * [Termux x11 repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-x11-android-5)
+ * [Termux science repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-science-android-5)
+ * [Termux game repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-game-android-5)
+ * [Termux unstable repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-unstable-android-5)
+
+You can download deb files via `curl` command or by using Android storage (to access it from Termux use command `termux-setup-storage`). Then you can use `dpkg` command to install the package.
+
+# Original Description
 Sources for Termux application and add-ons
 ==========================================
 
