@@ -15,14 +15,18 @@ You can download the apk files from [releases page](https://github.com/GamePlaye
 
 ## Installing apps on bootstrap
 Currently `pkg` and `apt` command will not work. But deb files are available in:
- * [Termux main repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-termux-android-5)
- * [Termux root repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-root-android-5)
- * [Termux x11 repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-x11-android-5)
- * [Termux science repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-science-android-5)
- * [Termux game repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-game-android-5)
- * [Termux unstable repo](https://github.com/GamePlayer-8-Discontinued-Termux/termux-unstable-android-5)
+ * [Termux main repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-termux)
+ * [Termux root repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-root)
+ * [Termux x11 repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-x11)
+ * [Termux science repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-science)
+ * [Termux game repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-game)
+ * [Termux unstable repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-unstable)
 
 You can download deb files via `curl` command or by using Android storage (to access it from Termux use command `termux-setup-storage`). Then you can use `dpkg` command to install the package.
+
+### Warning
+
+Rust deb file from `Termux main repo` was too big to upload, so it was splitted up in order to add it to Github repository. To install it, download the `rust` folder from `arm` folder and then execute `cat * > rust.deb` in that folder.
 
 # Original Description
 Sources for Termux application and add-ons
