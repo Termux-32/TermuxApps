@@ -2,7 +2,7 @@
 A legacy Termux version (0.83) what works on Android 5. I'm not a creator of these apps, but just making them avialable on Android 5.
 
 ## Contributing and patching
-Heyo, if you want to report an issue or create a new pull request **please firstly** go to **[GamePlayer Issues Center](https://gameplayer.tru.io/issues)** or go to **[Github Issues Center](https://github.com/GamePlayer-8/gameplayer-8.github.io/issues)**. **I'M NOT GOING TO RESPOND ON PULL REQUESTS TILL YOU WILL PING ME VIA EMAIL OR VIA ISSUES CENTERS.**
+Heyo, if you want to report an issue or create a new pull request **please firstly** go to **[GamePlayer Issues Center](https://gameplayer.tru.io/issues)** or go to **[Github Issues Center](https://github.com/GamePlayer-8/issues/issues)**. **I'M NOT GOING TO RESPOND ON PULL REQUESTS TILL YOU WILL PING ME VIA EMAIL OR VIA ISSUES CENTERS.**
 
 ## Questions or contact info
 I recommend you going on **[GamePlayer Support Center](https://gameplayer.tru.io/helpcenter)** or contact with me directly via email **gameplayer2019pl@tutamail.com**.
