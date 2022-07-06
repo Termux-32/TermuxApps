@@ -1,13 +1,13 @@
-Executable : /mnt/data/gameplayer/Android/Sdk/ndk/20.1.5948944/ndk-build
+Executable : /home/gameplayer/Android/Sdk/ndk/20.1.5948944/ndk-build
 arguments : 
 NDK_PROJECT_PATH=null
-APP_BUILD_SCRIPT=/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-emulator/src/main/jni/Android.mk
+APP_BUILD_SCRIPT=/home/gameplayer/Termux-apps-0.83/termux-app/terminal-emulator/src/main/jni/Android.mk
 APP_ABI=x86_64
 NDK_ALL_ABIS=x86_64
 NDK_DEBUG=1
 APP_PLATFORM=android-21
-NDK_OUT=/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/obj
-NDK_LIBS_OUT=/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/lib
+NDK_OUT=/home/gameplayer/Termux-apps-0.83/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/home/gameplayer/Termux-apps-0.83/termux-app/terminal-emulator/build/intermediates/ndkBuild/debug/lib
 APP_CFLAGS+=-std=c11
 APP_CFLAGS+=-Wall
 APP_CFLAGS+=-Wextra
