@@ -7,15 +7,6 @@ A legacy Termux version (0.83) what works on Android 5. I'm not a creator of the
 # Installation
 You can download the apk files from releases page & install it via SAI or adb.
 
-## Installing apps on bootstrap
-Currently `pkg` and `apt` command will not work. But deb files are available in:
- * [Termux main repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-termux)
- * [Termux root repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-root)
- * [Termux x11 repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-x11)
- * [Termux science repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-science)
- * [Termux game repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-game)
- * [Termux unstable repo](https://github.com/GamePlayer-8-Discontinued-Termux/deb-unstable)
-
 You can download deb files via `curl` command or by using Android storage (to access it from Termux use command `termux-setup-storage`). Then you can use `dpkg` command to install the package.
 
 ### Warning
