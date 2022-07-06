@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/gameplayer/Termux-apps-0.83/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/values-v21/values-v21.xml",
+                    "source": "/home/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

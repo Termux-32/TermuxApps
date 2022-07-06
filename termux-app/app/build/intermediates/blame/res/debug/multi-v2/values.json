@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/gameplayer/Termux-apps-0.83/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/res/values/strings.xml",
+                    "source": "/home/gameplayer/Termux-apps-0.83/termux-app/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,16,15,18,14,17,13,33,48,49,47,10,32,21,20,4,5,43,44,45,7,23,27,25,29,26,28,38,37,36,35,30,9,3,8,41,40,11,6",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/mnt/data/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/values/values.xml",
+                    "source": "/home/gameplayer/Termux-apps-0.83/termux-app/terminal-view/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,98,143",
+                        "endColumns": "42,44,53",
+                        "endOffsets": "93,138,192"
+                    },
+                    "to": {
+                        "startLines": "47,60,79",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3002,3850,5116",
+                        "endColumns": "42,44,53",
+                        "endOffsets": "3040,3890,5165"
+                    }
+                },
+                {
+                    "source": "/home/gameplayer/.gradle/caches/transforms-2/files-2.1/43191c1772a4eb2b46245ec1d27d0009/core-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,24 +57,7 @@
                     }
                 },
                 {
-                    "source": "/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/terminal-view/build/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,98,143",
-                        "endColumns": "42,44,53",
-                        "endOffsets": "93,138,192"
-                    },
-                    "to": {
-                        "startLines": "47,60,79",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "3002,3850,5116",
-                        "endColumns": "42,44,53",
-                        "endOffsets": "3040,3890,5165"
-                    }
-                },
-                {
-                    "source": "/mnt/data/gameplayer/workspace/termux-0.83-compiles/termux-app/app/src/main/res/values/styles.xml",
+                    "source": "/home/gameplayer/Termux-apps-0.83/termux-app/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "23,3,30",
                         "startColumns": "4,4,4",
